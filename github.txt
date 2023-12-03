@@ -9,3 +9,5 @@
 dummy changes of test
 
 new changes made for test
+
+added new change 2
