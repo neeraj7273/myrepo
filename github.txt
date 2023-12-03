@@ -1,0 +1,7 @@
+1. create github account
+2. create an empty repo
+3. set git config --global.user "your user name"
+4. set git config --global.email "your email"
+5. then use git push -u orgin master after this you might get an error
+6. you'll be asked for username enter it.
+7. for the password enter the generated token
